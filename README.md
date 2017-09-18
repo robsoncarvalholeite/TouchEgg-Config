@@ -17,4 +17,5 @@ This file contains gestures for:
   
   
 ## Using the configuration file
-Install Touchegg and save this touchegg.conf file in `` ~/.config/touchegg/touchegg.conf`` on your system.
+Install Touchegg and save this touchegg.conf file in `` ~/.config/touchegg/touchegg.conf`` and .xprofile file in ``~/.xprofile`` on your system.
+
