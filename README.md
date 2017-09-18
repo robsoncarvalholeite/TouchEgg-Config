@@ -1,4 +1,7 @@
-# Touchegg Configuration File for Gnome Ubuntu (tested in 17.04 version) and [TouchEgg 1.1](https://github.com/JoseExposito/touchegg)
+# Touchegg Configuration File for Gnome Ubuntu (tested in 17.04 version) and [TouchEgg](https://github.com/JoseExposito/touchegg)
+
+``Note: This config file was created by [Touchegg-gce GUI]``
+#### See more about [touchegg-gce GUI](https://github.com/Raffarti/Touchegg-gce)
 
 This file contains gestures for:
   - **DRAG 1 finger**: Drag files e.g.
@@ -14,4 +17,4 @@ This file contains gestures for:
   
   
 ## Using the configuration file
-Install Touchegg `` ~/.config/touchegg/touchegg.conf `` on your system.
+Install Touchegg and save this touchegg.conf file in `` ~/.config/touchegg/touchegg.conf`` on your system.
