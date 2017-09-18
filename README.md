@@ -1,5 +1,7 @@
 # Touchegg Configuration File for Gnome Ubuntu (tested in 17.04 version) and [TouchEgg](https://github.com/JoseExposito/touchegg)
 
+This configuration for linux like MacOS some Touchpad Gestures.
+
 ``Note: This config file was created by [Touchegg-gce GUI]``
 #### See more about [touchegg-gce GUI](https://github.com/Raffarti/Touchegg-gce)
 
