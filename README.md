@@ -15,7 +15,7 @@ This file contains gestures for:
   - **TAP  3 fingers**: Similar the Scroll click (browser: Open link in new tab).
   - **GRAG 4 fingers Up**: Show all GNOME Apps menu.
   - **GRAG 4 fingers Down**: Show all GNOME current desktop windows.
-  - **GRAG 4 fingers Left/Right**: Resize windown splited screen.
+  - **GRAG 4 fingers Left/Right**: Resize window splited screen.
   
   
 ## Using the configuration file
